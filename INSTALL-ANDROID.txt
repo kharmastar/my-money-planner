@@ -1,0 +1,10 @@
+MY MONEY PLANNER - ANDROID INSTALLATION
+
+1. Export a backup from your current planner first, if you have entered any transactions.
+2. Host the contents of this folder on an HTTPS website (e.g. GitHub Pages or Netlify). The HTML file alone opened from Downloads is not an installable PWA.
+3. Open the HTTPS URL on your Android phone using Chrome.
+4. Tap the three-dot menu, then Install app (or Add to Home screen).
+5. Launch the icon from your home screen.
+6. Import your backup using the app backup/import feature, if needed.
+
+IMPORTANT: Budget data stays in browser storage on the device and website origin. It does not automatically sync between phone and laptop. Export backups regularly and keep them private. Avoid publishing personal transaction data or backups. Hosting these app files does not publish your budget data.
